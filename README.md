@@ -26,7 +26,8 @@ Once you have it working in the console, write an event listener that will use t
 
 **YOUR NOTES**
 ```
-
+addevent lister on header so header needs to be defined and the first argument is a click event
+second argument function and inside the function body we are using the function they already gave us to change color.
 ```
 
 ## Deliverable 2: Create Player
@@ -43,6 +44,11 @@ Some things to keep in mind:
 
 **YOUR NOTES**
 ```
+prevent default first to stop page from refreshing on button click.
+made empty player hash
+did queryselector to grab the button or submit 
+did add event listener for click and then added attritubes in hash based on input of each
+form input.value
 
 ```
 
